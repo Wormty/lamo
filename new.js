@@ -6,7 +6,3 @@ let dailyActivities = ['eat','sleep'];
 
 dailyActivities[2] = 'exercise' ;
 
-dailyActivities.pop();
-
-console.log(dailyActivities.indexOf('sleep'));
-
