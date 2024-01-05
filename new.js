@@ -6,3 +6,4 @@ let dailyActivities = ['eat','sleep'];
 
 dailyActivities[2] = 'exercise' ;
 
+console.log(dailyActivities);
