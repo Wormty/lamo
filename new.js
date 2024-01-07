@@ -2,7 +2,7 @@
 
 // console.log(reverse("Hello \nWorld"));
 
-let dailyActivities = ['eat','sleep'];
+let dailyActivities = ['eat','if u know u know','sleep'];
 
 dailyActivities[2] = 'exercise' ;
 
@@ -14,3 +14,4 @@ let minus = 2
 let both = comma - minus;
 
 console.log(both);
+
