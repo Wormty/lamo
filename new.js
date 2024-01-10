@@ -11,7 +11,7 @@ console.log(dailyActivities);
 let comma = 3 
 let minus = 2
 
-let both = comma - minus;
+let both = comma + minus;
 
 console.log(both);
 
