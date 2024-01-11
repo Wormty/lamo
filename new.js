@@ -1,6 +1,6 @@
-// const reverse = str => str.split('').reverse().join('');
+const reverse = str => str.split('').reverse().join('');
 
-// console.log(reverse("Hello \nWorld"));
+console.log(reverse("Hello \nWorld"));
 
 let dailyActivities = ['eat','if u know u know','sleep'];
 
