@@ -23,3 +23,11 @@ console.log(myArray[0]);  // "h"
 
 // second element
 console.log(myArray[1]); // "e"
+
+
+let dailyActivitie = ['eat', 'sleep'];
+
+//add an element at the start
+dailyActivitie.unshift('work');
+
+console.log(dailyActivitie); // ['work', 'eat', 'sleep']
