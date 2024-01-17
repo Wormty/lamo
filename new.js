@@ -32,4 +32,4 @@ dailyActivitie.unshift('work');
 
 console.log(dailyActivitie); // ['work', 'eat', 'sleep']
 
-console.log(dailyActivitie);
+
