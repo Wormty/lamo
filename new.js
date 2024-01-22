@@ -38,6 +38,3 @@ console.log(both);
 
 console.log(both);
 
-console.log(both);
-
-console.log(both);
