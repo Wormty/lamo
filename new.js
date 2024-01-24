@@ -1,19 +1,19 @@
-const reverse = str => str.split('').reverse().join('');
+// const reverse = str => str.split('').reverse().join('');
 
-console.log(reverse("Hello \nWorld"));
+// console.log(reverse("Hello \nWorld"));
 
-let dailyActivities = ['eat','if u know u know','sleep'];
+// let dailyActivities = ['eat','if u know u know','sleep'];
 
-dailyActivities[2] = 'exercise' ;
+// dailyActivities[2] = 'exercise' ;
 
-console.log(dailyActivities);
+// console.log(dailyActivities);
 
-let comma = 3 
-let minus = 2
+// let comma = 3 
+// let minus = 2
 
-let both = comma + minus;
+// let both = comma + minus;
 
-console.log(both);
+// console.log(both);
 
 
 const myArray = ['h', 'e', 'l', 'l', 'o'];
@@ -25,13 +25,20 @@ console.log(myArray[0]);  // "h"
 console.log(myArray[1]); // "e"
 
 
-let dailyActivitie = ['eat', 'sleep'];
+// let dailyActivitie = ['eat', 'sleep'];
 
-//add an element at the start
-dailyActivitie.unshift('work');
+// //add an element at the start
+// dailyActivitie.unshift('work');
 
-console.log(dailyActivitie); // ['work', 'eat', 'sleep']
+// console.log(dailyActivitie); // ['work', 'eat', 'sleep']
 
 
 
-console.log(both);
+// console.log(both);
+
+
+let studentsData = [['Jack', 24], ['Sara', 23],];
+// studentsData.push(['Peter', 24]);
+
+console.log(studentsData); //[["Jack", 24], ["Sara", 23], ["Peter", 24]
+
